@@ -1,0 +1,48 @@
+{
+    "visitedPlaces": [{
+        "_id": "2b7faeaf-068e-4cfd-a97d-6d60f17279d2",
+        "date": {
+          "$numberLong": "1719180471272"
+        },
+        "address": "R. Humberto Cruz 22, 3030-383 Coimbra, Portugal",
+        "comment": "tersf",
+        "fullName": "Lourenço Daniel (Carlos)",
+        "lat": 40.1949648,
+        "lng": -8.3969498,
+        "rate": 3,
+        "userId": "RVd499OrMee6zw6wshY3J0O4NL73",
+        "geoPoint": {
+          "latitude": 40.1949648,
+          "longitude": -8.3969498
+        },
+        "raw": {
+          "uid": "RVd499OrMee6zw6wshY3J0O4NL73",
+          "email": "reincedaniel@gmail.com",
+          "emailVerified": true,
+          "displayName": "Lourenço Daniel (Carlos)",
+          "isAnonymous": false,
+          "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocIQxN8ftRlKrCiPmjdYGmx54T7KrpIHWpkUXqvqExNG3Gw=s96-c",
+          "providerData": [
+            {
+              "providerId": "google.com",
+              "uid": "101117391813012878682",
+              "displayName": "Lourenço Daniel (Carlos)",
+              "email": "reincedaniel@gmail.com",
+              "phoneNumber": null,
+              "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocJG3HQ7Ea-mDzG7jM4FnS7e1yU4_4lc6JFdKIZm--mufAyAG5yC=s96-c"
+            }
+          ],
+          "stsTokenManager": {
+            "refreshToken": "AMf-vBxEETSnoypJvCeai9EIpgbpt0eR8hJWWqYODEFH3iGLjklsN3vK1DLlJiKFHV2WNSNOuDbYtNfNXK8N6CImW6cWnbvI-wnZmUbOGbDLr900ouH5Cfq_R8oh6rdvyQM1DaAQgK0YHZ1NAPmot5cJMqwcba01ebA-UGsteT9LNfDuNdEqkkatb6wZOK23mK_eT0hS2jzkjQevJVia_RurL4MiD1cKYx11ASvkdI_xw3nWputnK7XjKv-qP5URr-JXXGU5X2ZbJo1opFCLWLc5mb3dOiF7NZjJuSk1SUnwZ0wJlVv7c2m7FwNyh4PJrFgNQO0mUSFpMlci6HYPItqxmWl6AHc_CZHfTJTGbih358LHbs1DrC8gSl5eI70zKYkXVks9Q9t6s8pxSDnsahk0EyyVTQe0AkIbBDRVeViMxEy2Wf8pkHo1YwNPtARAQaMolVUcVnQo",
+            "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImYwOGU2ZTNmNzg4ZDYwMTk0MDA1ZGJiYzE5NDc0YmY5Mjg5ZDM5ZWEiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiTG91cmVuw6dvIERhbmllbCAoQ2FybG9zKSIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NJUXhOOGZ0UmxLckNpUG1qZFlHbXg1NFQ3S3JwSUhXcGtVWHF2cUV4TkczR3c9czk2LWMiLCJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vdGFtYnVsYS00NjMwYSIsImF1ZCI6InRhbWJ1bGEtNDYzMGEiLCJhdXRoX3RpbWUiOjE3MTg5MjIwMTQsInVzZXJfaWQiOiJSVmQ0OTlPck1lZTZ6dzZ3c2hZM0owTzROTDczIiwic3ViIjoiUlZkNDk5T3JNZWU2enc2d3NoWTNKME80Tkw3MyIsImlhdCI6MTcxODkyMjAxNCwiZXhwIjoxNzE4OTI1NjE0LCJlbWFpbCI6InJlaW5jZWRhbmllbEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJnb29nbGUuY29tIjpbIjEwMTExNzM5MTgxMzAxMjg3ODY4MiJdLCJlbWFpbCI6WyJyZWluY2VkYW5pZWxAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoiZ29vZ2xlLmNvbSJ9fQ.p5JeEWj_x9ZHSLFH25t0zCeUXrP_D5HV5ZhQwxB-rvKHi3aJk0XvkDq3zE6wV8pCh9fJMrlB_UA_ZEq7p5SbPJbn-TxG7yIlkI82mUh-_R722Zr-6crF3cxTlnFGhxR1BY53ScXQOrjM2HQFiGQwUsblRGk46AJ41ANeNrYvOUMUSsXvRqGdIamzY3j7MkcBu0fTKTXSDC0RHi_Qs5nIY_iy8PA_FHs8b7hAO4bsuxiYxeSAU32Ba0lwirWOSMuLNGoH8ZhJrzKDFsEDUKqZn24rHh7jNSB-eH8jYkbE8V3Ek6YGEy3XyO_Qnp4pMLvB5J2wHlGanYCbB5qTc4YQLw",
+            "expirationTime": {
+              "$numberLong": "1718925614715"
+            }
+          },
+          "createdAt": "1708362592805",
+          "lastLoginAt": "1718922014534",
+          "apiKey": "AIzaSyCz9BqC8ifgDOAxUclzK_zB4C-VYcxlTH8",
+          "appName": "[DEFAULT]"
+        }
+      }]
+}
